@@ -32,7 +32,7 @@ import pandas as pd
 |내용|내용2|내용3|
 |내용|내용2|내용3|
 
-- 아래와 같은 형식으로 CSV 파일을 불러올 수 있음.
+- 아래와 같은 형식으로 CSV 파일을 불러올 수 있음
 ```
 pandas.DataFrame(2차원 배열, index = 행 인덱스 배열, columns = 열 이름 배열)
 ```
